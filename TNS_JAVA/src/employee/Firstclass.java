@@ -5,7 +5,7 @@ public static void main(String args[]) {
 		
 		Employee st=new Employee();
 		
-		st.setEmp_name("Aanshi");
+		st.setEmp_name("MEGH");
 		
 		System.out.println(st);
 	}
